@@ -1,0 +1,9 @@
+.pypirc
+/build
+/dist
+clients_secret.json
+credentials.json
+/Datasets
+.DS_Store
+/pysport.egg-info
+/pysport/.DS_Store
