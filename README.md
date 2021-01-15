@@ -1,4 +1,4 @@
 Try it out
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/sarangpurandare/93d35856007964c11fca17bf573defed/pysport-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/sarangpurandare/481f2dac86b0b830e68ba3dfb6cc21cb/pysport-demo.ipynb)
